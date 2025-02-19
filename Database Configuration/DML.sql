@@ -1,25 +1,26 @@
+-- Active: 1739928788326@@127.0.0.1@5432@SocialBunny
 
 -- Inserts for public.user
 INSERT INTO public."user" (fullname, username, "password", email, mobile_number, birth_date, biography, profile_photo, "role") VALUES
-('John Doe', 'johndoe', 'password123', 'john@example.com', '1234567890', '2000-01-01', 'This is John\'s bio.', 'https://pbs.twimg.com/media/Gj9IVfWboAABsDk?format=jpg&name=small', 'USER'),
-('Jane Smith', 'janesmith', 'password123', 'jane@example.com', '0987654321', '1995-05-05', 'This is Jane\'s bio.', 'http://example.com/jane.jpg', 'USER'),
-('Alice Johnson', 'alicejohnson', 'password123', 'alice@example.com', '1122334455', '1990-10-10', 'This is Alice\'s bio.', 'http://example.com/alice.jpg', 'USER'),
-('Bob Brown', 'bobbrown', 'password123', 'bob@example.com', '2233445566', '1985-12-12', 'This is Bob\'s bio.', 'http://example.com/bob.jpg', 'USER'),
-('Charlie Davis', 'charliedavis', 'password123', 'charlie@example.com', '3344556677', '1992-03-03', 'This is Charlie\'s bio.', 'http://example.com/charlie.jpg', 'USER'),
-('David Wilson', 'davidwilson', 'password123', 'david@example.com', '4455667788', '1988-07-07', 'This is David\'s bio.', 'http://example.com/david.jpg', 'USER'),
-('Eva Green', 'evagreen', 'password123', 'eva@example.com', '5566778899', '1993-09-09', 'This is Eva\'s bio.', 'http://example.com/eva.jpg', 'USER'),
-('Frank White', 'frankwhite', 'password123', 'frank@example.com', '6677889900', '1980-11-11', 'This is Frank\'s bio.', 'http://example.com/frank.jpg', 'USER'),
-('Grace Black', 'graceblack', 'password123', 'grace@example.com', '7788990011', '1991-02-02', 'This is Grace\'s bio.', 'http://example.com/grace.jpg', 'USER'),
-('Hank Grey', 'hankgrey', 'password123', 'hank@example.com', '8899001122', '1987-04-04', 'This is Hank\'s bio.', 'http://example.com/hank.jpg', 'USER'),
-('Ivy Blue', 'ivyblue', 'password123', 'ivy@example.com', '9900112233', '1994-06-06', 'This is Ivy\'s bio.', 'http://example.com/ivy.jpg', 'USER'),
-('Jack Red', 'jackred', 'password123', 'jack@example.com', '1011121314', '1986-08-08', 'This is Jack\'s bio.', 'http://example.com/jack.jpg', 'USER'),
-('Kathy Yellow', 'kathyyellow', 'password123', 'kathy@example.com', '1213141516', '1992-01-01', 'This is Kathy\'s bio.', 'http://example.com/kathy.jpg', 'USER'),
-('Leo Purple', 'leopurple', 'password123', 'leo@example.com', '1314151617', '1989-03-03', 'This is Leo\'s bio.', 'http://example.com/leo.jpg', 'USER'),
-('Mia Orange', 'miaorange', 'password123', 'mia@example.com', '1415161718', '1990-05-05', 'This is Mia\'s bio.', 'http://example.com/mia.jpg', 'USER'),
-('Nina Pink', 'ninapink', 'password123', 'nina@example.com', '1516171819', '1988-07-07', 'This is Nina\'s bio.', 'http://example.com/nina.jpg', 'USER'),
-('Oscar Cyan', 'oscarcyan', 'password123', 'oscar@example.com', '1617181920', '1995-09-09', 'This is Oscar\'s bio.', 'http://example.com/oscar.jpg', 'USER'),
-('Paul Brown', 'paulbrown', 'password123', 'paul@example.com', '1718192021', '1993-11-11', 'This is Paul\'s bio.', 'http://example.com/paul.jpg', 'USER'),
-('Quinn Silver', 'quinnsilver', 'password123', 'quinn@example.com', '1819202122', '1991-01-01', 'This is Quinn\'s bio.', 'http://example.com/quinn.jpg', 'USER');
+('John Doe', 'johndoe', '$2a$12$NGkVE0cOKNXKyGTf20xtXeJSSCru.KQFbk8zH6fhCG.xCxYP5tWw6', 'john@example.com', '1234567890', '2000-01-01', 'This is Johns bio.', 'https://pbs.twimg.com/media/Gj9IVfWboAABsDk?format=jpg&name=small', 'USER'),
+('Jane Smith', 'janesmith', '$2a$12$NGkVE0cOKNXKyGTf20xtXeJSSCru.KQFbk8zH6fhCG.xCxYP5tWw6', 'jane@example.com', '0987654321', '1995-05-05', 'This is Janes bio.', 'http://example.com/jane.jpg', 'USER'),
+('Alice Johnson', 'alicejohnson', '$2a$12$NGkVE0cOKNXKyGTf20xtXeJSSCru.KQFbk8zH6fhCG.xCxYP5tWw6', 'alice@example.com', '1122334455', '1990-10-10', 'This is Alices bio.', 'http://example.com/alice.jpg', 'USER'),
+('Bob Brown', 'bobbrown', '$2a$12$NGkVE0cOKNXKyGTf20xtXeJSSCru.KQFbk8zH6fhCG.xCxYP5tWw6', 'bob@example.com', '2233445566', '1985-12-12', 'This is Bobs bio.', 'http://example.com/bob.jpg', 'USER'),
+('Charlie Davis', 'charliedavis', '$2a$12$NGkVE0cOKNXKyGTf20xtXeJSSCru.KQFbk8zH6fhCG.xCxYP5tWw6', 'charlie@example.com', '3344556677', '1992-03-03', 'This is Charlies bio.', 'http://example.com/charlie.jpg', 'USER'),
+('David Wilson', 'davidwilson', '$2a$12$NGkVE0cOKNXKyGTf20xtXeJSSCru.KQFbk8zH6fhCG.xCxYP5tWw6', 'david@example.com', '4455667788', '1988-07-07', 'This is Davids bio.', 'http://example.com/david.jpg', 'USER'),
+('Eva Green', 'evagreen', '$2a$12$NGkVE0cOKNXKyGTf20xtXeJSSCru.KQFbk8zH6fhCG.xCxYP5tWw6', 'eva@example.com', '5566778899', '1993-09-09', 'This is Evas bio.', 'http://example.com/eva.jpg', 'USER'),
+('Frank White', 'frankwhite', '$2a$12$NGkVE0cOKNXKyGTf20xtXeJSSCru.KQFbk8zH6fhCG.xCxYP5tWw6', 'frank@example.com', '6677889900', '1980-11-11', 'This is Franks bio.', 'http://example.com/frank.jpg', 'USER'),
+('Grace Black', 'graceblack', '$2a$12$NGkVE0cOKNXKyGTf20xtXeJSSCru.KQFbk8zH6fhCG.xCxYP5tWw6', 'grace@example.com', '7788990011', '1991-02-02', 'This is Graces bio.', 'http://example.com/grace.jpg', 'USER'),
+('Hank Grey', 'hankgrey', '$2a$12$NGkVE0cOKNXKyGTf20xtXeJSSCru.KQFbk8zH6fhCG.xCxYP5tWw6', 'hank@example.com', '8899001122', '1987-04-04', 'This is Hanks bio.', 'http://example.com/hank.jpg', 'USER'),
+('Ivy Blue', 'ivyblue', '$2a$12$NGkVE0cOKNXKyGTf20xtXeJSSCru.KQFbk8zH6fhCG.xCxYP5tWw6', 'ivy@example.com', '9900112233', '1994-06-06', 'This is Ivys bio.', 'http://example.com/ivy.jpg', 'USER'),
+('Jack Red', 'jackred', '$2a$12$NGkVE0cOKNXKyGTf20xtXeJSSCru.KQFbk8zH6fhCG.xCxYP5tWw6', 'jack@example.com', '1011121314', '1986-08-08', 'This is Jacks bio.', 'http://example.com/jack.jpg', 'USER'),
+('Kathy Yellow', 'kathyyellow', '$2a$12$NGkVE0cOKNXKyGTf20xtXeJSSCru.KQFbk8zH6fhCG.xCxYP5tWw6', 'kathy@example.com', '1213141516', '1992-01-01', 'This is Kathys bio.', 'http://example.com/kathy.jpg', 'USER'),
+('Leo Purple', 'leopurple', '$2a$12$NGkVE0cOKNXKyGTf20xtXeJSSCru.KQFbk8zH6fhCG.xCxYP5tWw6', 'leo@example.com', '1314151617', '1989-03-03', 'This is Leos bio.', 'http://example.com/leo.jpg', 'USER'),
+('Mia Orange', 'miaorange', '$2a$12$NGkVE0cOKNXKyGTf20xtXeJSSCru.KQFbk8zH6fhCG.xCxYP5tWw6', 'mia@example.com', '1415161718', '1990-05-05', 'This is Mias bio.', 'http://example.com/mia.jpg', 'USER'),
+('Nina Pink', 'ninapink', '$2a$12$NGkVE0cOKNXKyGTf20xtXeJSSCru.KQFbk8zH6fhCG.xCxYP5tWw6', 'nina@example.com', '1516171819', '1988-07-07', 'This is Ninas bio.', 'http://example.com/nina.jpg', 'USER'),
+('Oscar Cyan', 'oscarcyan', '$2a$12$NGkVE0cOKNXKyGTf20xtXeJSSCru.KQFbk8zH6fhCG.xCxYP5tWw6', 'oscar@example.com', '1617181920', '1995-09-09', 'This is Oscars bio.', 'http://example.com/oscar.jpg', 'USER'),
+('Paul Brown', 'paulbrown', '$2a$12$NGkVE0cOKNXKyGTf20xtXeJSSCru.KQFbk8zH6fhCG.xCxYP5tWw6', 'paul@example.com', '1718192021', '1993-11-11', 'This is Pauls bio.', 'http://example.com/paul.jpg', 'USER'),
+('Quinn Silver', 'quinnsilver', '$2a$12$NGkVE0cOKNXKyGTf20xtXeJSSCru.KQFbk8zH6fhCG.xCxYP5tWw6', 'quinn@example.com', '1819202122', '1991-01-01', 'This is Quinns bio.', 'http://example.com/quinn.jpg', 'USER');
 
 -- Inserts for public.post
 INSERT INTO public.post (id_user, description, img, creation_date, count_comments, count_reactions) VALUES
