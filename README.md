@@ -41,7 +41,7 @@ Social Bunny is a platform that allows users to share thoughts, interact with ot
    - Lists of followers and followed users.
 
 5. **Notifications** 🔔
-   - Notifications for comments, "likes", tags, and new followers.
+   - Notifications for comments, "likes", mentions, and new followers.
 
 ### Non-Functional Requirements ❌
 - **Technologies to Use** ⚙️
