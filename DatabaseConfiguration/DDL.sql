@@ -12,7 +12,7 @@ CREATE TABLE public."user" (
 	mobile_number varchar(10) NOT NULL,
 	birth_date date NOT NULL,
 	biography varchar(255) NULL,
-	profile_photo varchar(255) NULL,
+	profile_photo varchar(2083) NULL,
 	"role" varchar(255) NOT NULL,
 	CONSTRAINT user_birth_date_check CHECK ((birth_date <= (CURRENT_DATE - '14 years'::interval))),
 	CONSTRAINT user_email_key UNIQUE (email),
