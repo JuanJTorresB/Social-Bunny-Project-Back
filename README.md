@@ -1,5 +1,8 @@
 # Social Bunny 🐰
 
+![Social Bunny Icon 🐰](https://github.com/JuanJTorresB/Social-Bunny-Project-Front/blob/main/public/ConejitoSocialFavicon.png)
+
+
 ## Table of Contents 📚
 1. [Project Description](#project-description-) 📝
 2. [Project Requirements](#project-requirements-) 📋
@@ -108,5 +111,5 @@ The API documentation is available on.
 - **Frontend:** [Frontend Repository](https://github.com/JuanJTorresB/Social-Bunny-Project-Front.git)
 
 **Latest commit hashes:**
-- Backend: ``
-- Frontend: ``
+
+- Frontend: `57c34bf416b4761df1be8ff2a50f4bcd1e186ff4`
