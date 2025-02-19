@@ -81,11 +81,11 @@ CREATE DATABASE "SocialBunny";
 
 4. Execute The DDL Script To Create The Tables.
 
-[DDL Script](Database Configuration/DDL.sql)
+[DDL Script](Database$20Configuration/DDL.sql)
 
 5. Execute The DML Script To Insert The Data.
 
-[DML Script](Database Configuration/DML.sql)
+[DML Script](Database$20Configuration/DML.sql)
 
 6. Run the backend Spring.
 
