@@ -8,7 +8,7 @@
 3. [Technologies Used](#technologies-used-) ⚙️
 4. [Installation and Configuration Instructions](#installation-and-configuration-instructions-) ⚙️
 5. [Authentication and Security](#authentication-and-security-) 🔒
-6. [API Endpoints](#api-endpoints-) 🌐
+6. [API Documentation](#api-documentation-) 📖
 7. [Demonstrative Video](#demonstrative-video-) 🎥
 8. [Links to Repositories](#links-to-repositories-) 🔗
 
