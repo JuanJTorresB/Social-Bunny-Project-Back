@@ -1,16 +1,16 @@
 # Social Bunny 🐰
 
 ## Table of Contents 📚
-1. [Project Description](#project-description) 📝
-2. [Project Requirements](#project-requirements) 📋
-   - [Functional Requirements](#functional-requirements) ✅
-   - [Non-Functional Requirements](#non-functional-requirements) ❌
-3. [Technologies Used](#technologies-used) ⚙️
-4. [Installation and Configuration Instructions](#installation-and-configuration-instructions) ⚙️
-5. [Authentication and Security](#authentication-and-security) 🔒
-6. [API Endpoints](#api-endpoints) 🌐
-7. [Demonstrative Video](#demonstrative-video) 🎥
-8. [Links to Repositories](#links-to-repositories) 🔗
+1. [Project Description](#project-description-) 📝
+2. [Project Requirements](#project-requirements-) 📋
+   - [Functional Requirements](#functional-requirements-) ✅
+   - [Non-Functional Requirements](#non-functional-requirements-) ❌
+3. [Technologies Used](#technologies-used-) ⚙️
+4. [Installation and Configuration Instructions](#installation-and-configuration-instructions-) ⚙️
+5. [Authentication and Security](#authentication-and-security-) 🔒
+6. [API Endpoints](#api-endpoints-) 🌐
+7. [Demonstrative Video](#demonstrative-video-) 🎥
+8. [Links to Repositories](#links-to-repositories-) 🔗
 
 ## Project Description 📝
 Social Bunny is a platform that allows users to share thoughts, interact with others, and stay connected in a dynamic and intuitive way. This project consists of developing a social network where users can create posts with text and images, comment on others' posts, and react to them. 
